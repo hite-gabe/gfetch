@@ -11,6 +11,11 @@ gfetch can run on about any Linux system. This includes Debian, Arch, Linux Mint
 * Accurately calculates Total RAM using kernel memory units
 * Displays Total and Free Storage space for the root partition
 
+## Screenshot
+
+<img width="654" height="442" alt="image" src="https://github.com/user-attachments/assets/37280292-fa29-4093-ac08-aeb1bd2fa3c9" />
+
+
 ## Installation
 
 1. Clone the repository or download the source code:
