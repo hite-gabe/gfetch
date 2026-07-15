@@ -21,6 +21,6 @@ gfetch can run on about any Linux system. This includes Debian, Arch, Linux Mint
 1. Clone the repository or download the source code:
    ```bash
    gcc main.c -o gfetch
-2. You can also download the pre-compiled binary, and copy it to usr/local/bin/ using
+2. You can also download the pre-compiled binary, and copy it to /usr/local/bin/ using
    ```bash
    sudo cp gfetch /usr/local/bin/
